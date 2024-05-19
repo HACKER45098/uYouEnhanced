@@ -229,7 +229,7 @@
 
 # Features
 
-1. **uYou:** uYou에는 제가 나열할 수 없는 수많은 기능이 있습니다. 더 많은 정보를 원하시면 [여기](https://miro92.com/repo/depictions/?p=com.miro.uyou) 를 눌러주세요!
+1. **uYou:** uYou에는 제가 나열할 수 없는 수많은 기능이 있습니다. 더 많은 정보를 원하시면 [여기](https://miro92.com/repo/depictions/?p=com.miro.uyou)를 눌러주세요!
 
 2. **iSponsorBlock:** 영상 내 성가신 스폰서 광고를 건너뜁니다. iSponsorBlock은 [SponsorBlock 엔진](https://sponsor.ajay.app/)을 기반으로 합니다. 기본적으로 이는 SponsorBlock 확장의 iOS 버전입니다.
 3. **YouPiP:** 유튜브의 **native PiP**를 활성화합니다. Youtube 설정에 더 많은 옵션이 있습니다 - 일반.
@@ -237,39 +237,39 @@
 4. **YTUHD:** VP9 코덱을 잠금 해제하여 2K 및 4K의 비디오 품질을 사용할 수 있습니다. YouTube 설정 - 비디오 품질 환경설정에서 YTUHD를 활성화/비활성화할 수 있습니다.
 
 <details>
-  <summary>And many more...!</summary>
+  <summary>그밖에...!</summary>
 
 5. **YTClassicVideoQuality:** Since YouTube v16.xx, changing video quality requires an extra step. YTClassicVideoQuality brings back the old video quality selector, which is more user-friendly than the new one.
 
-6. **YTNoHoverCards:** This tweak offers the option to enable or disable the annoying suggested videos that appear at the end of YouTube videos.
+6. **YTNoHoverCards:** 이 트윅은 YouTube 동영상 끝에 나타나는 성가신 추천 동영상을 활성화 또는 비활성화할 수 있는 옵션을 제공합니다.
 
-7. **YouRememberCaption:** YouRememberCaption makes YouTube remember your video caption setting (if not already).
+7. **YouRememberCaption:** YouRememberCaption은 YouTube가 이미 설정되어 있는 경우에도 동영상 자막 설정을 기억하도록 만듭니다.
 
-8. **NoYTPremium:** NoYTPremium removes YouTube Premium upsells, preventing the ads and promotions for YouTube Premium from appearing.
+8. **NoYTPremium:** NoYTPremium은 YouTube Premium을 홍보하는 광고 및 프로모션을 제거하여 YouTube Premium에 대한 광고가 나타나지 않도록 합니다.
 
-9. **YTSpeed:** YTSpeed adds additional playback speed options of 2.25x, 2.5x, 2.75x, 3x and more to the YouTube app, providing more flexibility in video playback speed.
+9. **YTSpeed:** YTSpeed는 YouTube 앱에 2.25배, 2.5배, 2.75배, 3배 등의 추가 재생 속도 옵션을 추가하여 비디오 재생 속도에 대한 더 많은 유연성을 제공합니다.
 
-10. **YTMiniplayerEnabler:** YTMiniplayerEnabler enables the Miniplayer feature for all YouTube videos.
+10. **YTMiniplayerEnabler:** YTMiniplayerEnabler는 모든 YouTube 동영상에 대해 미니플레이어 기능을 활성화합니다.
 
-11. **DontEatMyContent:** This tweak prevents the notch or Dynamic Island from obstructing 2:1 video content on YouTube, ensuring a better viewing experience.
+12. **DontEatMyContent:** 이 트윅은 YouTube에서 2:1 비디오 콘텐츠를 방해하는 노치나 다이나믹 아일랜드를 막아 더 나은 시청 경험을 보장합니다.
 
-12. **YTABConfig:** This tweak gives users control over YouTube's A/B testing flags, allowing them to enable or disable experimental features.
+13. **YTABConfig:** 이 트윅은 사용자가 YouTube의 A/B 테스트 플래그를 제어하여 실험적인 기능을 활성화 또는 비활성화할 수 있도록 합니다.
 
-13. **YouMute:** YouMute provides a button to mute YouTube videos in the video player, offering a convenient way to toggle the audio on and off.
+14. **YouMute:** YouMute은 비디오 플레이어에서 YouTube 동영상을 음소거하는 버튼을 제공하여 오디오를 켜고 끄는 편리한 방법을 제공합니다.
 
-14. **YouQuality:** YouQuality offers a button to change the video quality of YouTube videos in the video player, allowing quick access to different quality options.
+15. **YouQuality:** YouQuality는 비디오 플레이어에서 YouTube 동영상의 화질을 변경할 수 있는 버튼을 제공하여 다양한 화질 옵션에 빠르게 액세스할 수 있게 합니다.
 
-15. **YTVideoOverlay:** YTVideoOverlay adds buttons to overlay the video, providing quick access to features like captions, speed control, and quality settings.
+16. **YTVideoOverlay:** YTVideoOverlay는 비디오 위에 버튼을 추가하여 자막, 재생 속도 조절 및 화질 설정과 같은 기능에 빠르게 액세스할 수 있도록 합니다.
 
-16. **LowContrastMode:** LowContrastMode is a tweak that allows users to darken the text in the YouTube app, making it easier to read. **<-- uYouEnhanced Exclusive Feature (subject to change)**
+17. **LowContrastMode:** LowContrastMode는 사용자가 YouTube 앱의 텍스트를 어둡게 만들어서 읽기 쉽게 하는 기능을 제공하는 트윅입니다. **<-- uYouEnhanced의 독점 기능 (변경될 수 있음)**
 
 </details>
 
 # Known issues
 
-- **uYou**: Issues related to uYou are listed [here](https://github.com/MiRO92/uYou-for-YouTube/issues). Because uYou is not being updated frequently, we recommended creating bug reports on this repo.
+- **uYou**: uYou와 관련된 문제들은 [여기](https://github.com/MiRO92/uYou-for-YouTube/issues)에 명시되어 있습니다. uYou가 자주 업데이트되지 않기 때문에 이 저장소에 버그 보고서를 작성하는 것을 권장합니다.
 
-- Issues related to **uYouEnhanced** can be found [here](https://github.com/arichornlover/uYouEnhanced/issues/).
+- **uYouEnhanced**와 관련된 문제는 [여기](https://github.com/arichornlover/uYouEnhanced/issues/)에서 찾을 수 있습니다.
 
 ## Download
 
