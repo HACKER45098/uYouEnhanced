@@ -231,11 +231,10 @@
 
 1. **uYou:** uYou에는 제가 나열할 수 없는 수많은 기능이 있습니다. 더 많은 정보를 원하시면 [여기](https://miro92.com/repo/depictions/?p=com.miro.uyou) 를 눌러주세요!
 
-2. **iSponsorBlock:** Skips annoying sponsor ads inside videos. iSponsorBlock is based on [SponsorBlock engine](https://sponsor.ajay.app/). Basically, this is the iOS version of the SponsorBlock extension.
+2. **iSponsorBlock:** 영상 내 성가신 스폰서 광고를 건너뜁니다. iSponsorBlock은 [SponsorBlock 엔진](https://sponsor.ajay.app/)을 기반으로 합니다. 기본적으로 이는 SponsorBlock 확장의 iOS 버전입니다.
+3. **YouPiP:** 유튜브의 **native PiP**를 활성화합니다. Youtube 설정에 더 많은 옵션이 있습니다 - 일반.
 
-3. **YouPiP:** enable YouTube's **native PiP**. More options are in YouTube Settings - General.
-
-4. **YTUHD:** unlock VP9 codec and in effect, enables video quality of 2K and 4K. You can enable/disable YTUHD in YouTube Settings - Video quality preferences.
+4. **YTUHD:** VP9 코덱을 잠금 해제하여 2K 및 4K의 비디오 품질을 사용할 수 있습니다. YouTube 설정 - 비디오 품질 환경설정에서 YTUHD를 활성화/비활성화할 수 있습니다.
 
 <details>
   <summary>And many more...!</summary>
@@ -357,21 +356,21 @@ Hello, this is here to showcase this tweak. I have been seeing the YTLitePlus tw
 
 https://github.com/Balackburn/YTLitePlus/releases
 
-**Pros**
+**장점**
 
-- YTLitePlus is stable and more customizable than uYouPlus/uYouEnhanced.
+- YTLitePlus는 uYouPlus/uYouEnhanced보다 안정적이고 더 많은 사용자 설정이 가능합니다.
 
-- YTLitePlus provides more features in YTLite & YTLitePlus Sections in Settings that uYouPlus/uYouEnhanced may not have.
+- YTLitePlus는 설정의 YTLite 및 YTLitePlus 섹션에서 uYouPlus/uYouEnhanced가 제공하지 않는 더 많은 기능을 제공합니다.
 
-- YTLitePlus includes a lightweight version of the App Version Spoofer, making it easier to use.
+- YTLitePlus에는 가벼운 버전의 앱 버전 스푸퍼가 포함되어 있어 사용이 더 편리합니다.
 
-- YTLitePlus does not cause your device to overheat, unlike uYouEnhanced.
+- YTLitePlus는 uYouEnhanced와 달리 기기가 과열되지 않습니다.
 
-**Cons**
+**단점**
 
-- No custom video downloading feature in YTLitePlus.
+- YTLitePlus에는 맞춤형 비디오 다운로드 기능이 없습니다.
 
-- Video quality on WiFi option is not available in YTLitePlus.
+- YTLitePlus에는 WiFi에서 비디오 품질 옵션을 사용할 수 없습니다.
 
-- Reordering the pivot bar tabs such as ‘Home‘, ‘Shorts‘, ‘Explore‘, ‘Trending‘, Create‘, ‘Subscriptions‘ & ‘You‘ is not available in YTLitePlus.
+- YTLitePlus에서는 '홈', '쇼트', '탐색', '인기 동영상', '만들기', '구독' 및 '내 채널'과 같은 피벗 바 탭의 순서를 재정렬하는 기능이 제공되지 않습니다.
 </details>
