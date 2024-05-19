@@ -40,7 +40,7 @@
 [![Wiki](https://img.shields.io/badge/Wiki-blue?style=flat)](#wiki)<br>
 
 # Credits
-- Special thanks to all the developers who have worked on uYouPlus/uYouEnhanced! 
+- uYouPlus/uYouEnhanced에 관하여 일하신 모든 개발자분들에게 감사드립니다!
 
 <table id='credit'>
 <tr>
