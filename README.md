@@ -26,7 +26,7 @@
 </p>
 
 > [!NOTE]
-> uYouEnhanced is a **modified version** of uYou. **Please DO NOT bother MiRO92 with issues unrelated to uYou!**
+> uYouEnhanced는 uYou의 **수정된 버전**입니다. **uYou와 관련이 없는 문제로 MiRO92를 귀찮게 하지 마세요! **
 
 # Table of Contents
 
