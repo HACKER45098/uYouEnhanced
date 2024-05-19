@@ -239,7 +239,7 @@
 <details>
   <summary>그밖에...!</summary>
 
-5. **YTClassicVideoQuality:** Since YouTube v16.xx, changing video quality requires an extra step. YTClassicVideoQuality brings back the old video quality selector, which is more user-friendly than the new one.
+5. **YTClassicVideoQuality:** YouTube v16.xx부터 비디오 품질을 변경하는 데 추가 단계가 필요합니다. YTClassicVideoQuality는 이전의 비디오 품질 선택기를 다시 제공하여 새로운 것보다 사용자 친화적입니다.
 
 6. **YTNoHoverCards:** 이 트윅은 YouTube 동영상 끝에 나타나는 성가신 추천 동영상을 활성화 또는 비활성화할 수 있는 옵션을 제공합니다.
 
